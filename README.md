@@ -1,10 +1,8 @@
-# Portfolio1
-Kajal Kumari Portfolio Website
 @Created By:
 Name: Kajal Kumari
 Email: kajal143698@gmail.com
 🚀 Overview:
-This project is a personal portfolio website for Kajal Kumari. It showcases her skills, projects, and contact information. Below is a detailed description of the code structure and its components.
+This project is a personal portfolio website . It showcases skills, projects, and contact information. Below is a detailed description of the code structure and its components.
 
 🚀 Level 1:
 1. HTML Structure
